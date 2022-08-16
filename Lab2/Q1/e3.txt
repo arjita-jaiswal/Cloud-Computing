@@ -1,0 +1,3 @@
+EC103 	Basic Electronic Circuits
+EC111 	Basic Electronics Lab
+HS103 	HSS Elective

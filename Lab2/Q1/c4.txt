@@ -1,0 +1,4 @@
+CS210 	Formal Languages and Automata
+CS231 	Operating Systems
+CS232 	Operating Systems Lab
+CS235 	Artificial Intelligence

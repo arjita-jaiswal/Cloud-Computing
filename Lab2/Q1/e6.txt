@@ -1,0 +1,4 @@
+EC353 	Information Theory and Coding
+EC361 	VLSI Design
+EC362 	VLSI Design Lab
+EC371 	Microwave Engineering

@@ -1,0 +1,4 @@
+CS301 	Theory of Computation
+CS352 	Computer Networks
+CS353 	Computer Networks Lab
+CS351 	IT Workshop III: Cloud Computing

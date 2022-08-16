@@ -1,0 +1,3 @@
+MA101 	Mathematics
+CS101 	Computer Programming
+CS110 	Computer Programming Lab

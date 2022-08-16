@@ -1,0 +1,3 @@
+EC401 	Project II
+EC402 	Elective II
+EC403 	Elective III

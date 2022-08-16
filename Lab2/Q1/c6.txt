@@ -1,0 +1,4 @@
+CS330 	Software Engineering
+CS331 	Software Engineering Lab
+CS320 	Compilers
+CS321 	Compilers Lab

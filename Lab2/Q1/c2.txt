@@ -1,0 +1,3 @@
+CS103 	Data Structures
+CS111 	Data Structures Lab
+CS104 	Computer Organization

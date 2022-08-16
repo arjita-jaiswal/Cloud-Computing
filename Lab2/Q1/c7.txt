@@ -1,0 +1,3 @@
+CS401 	Data Analytics
+CS402 	Open Elective
+CS403 	Elective I

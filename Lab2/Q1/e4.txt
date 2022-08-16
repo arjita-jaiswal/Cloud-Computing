@@ -1,0 +1,3 @@
+EC201 	Analog Circuits
+EC260 	Semiconductor Devices
+EC241 	Signals and Systemsn

@@ -1,0 +1,3 @@
+EC101 	Digital Design
+EC110 	Digital Design Lab
+EC102 	Electrical Circuit Analysis

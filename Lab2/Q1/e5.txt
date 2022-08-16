@@ -1,0 +1,4 @@
+EC351 	Digital Communication
+EC352 	Digital Communication Lab
+EC301 	Analog Integrated Circuits
+EC302 	Analog Integrated Circuit Lab

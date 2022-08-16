@@ -1,0 +1,4 @@
+EC251 	Principles of Communication
+EC252 	Communications Lab
+EC243 	Digital Signal Processing
+EC244 	Digital Signal Processing Lab

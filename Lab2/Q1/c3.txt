@@ -1,0 +1,4 @@
+CS201 	Algorithms
+CS210 	Algorithm Lab
+CS221 	Data Communication
+CS202 	IT Workshop I

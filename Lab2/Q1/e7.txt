@@ -1,0 +1,3 @@
+EC456 	Communication Network
+EC457 	Elective I
+EC400 	Project I
